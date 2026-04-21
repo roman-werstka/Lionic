@@ -142,3 +142,73 @@ body {
   text-align: center;
   margin: 0;
 }
+
+/* articles */
+.articles-list {
+  flex-wrap: wrap;
+}
+
+.articles-item {
+  margin-bottom: 30px;
+  width: 570px;
+  outline: 1px solid red;
+}
+
+.articles-item:not(:nth-child(2n)) {
+  margin-right: 30px;
+}
+
+.blog-preview-image {
+  object-fit: cover;
+}
+
+.blog-preview-text {
+  padding: 30px;
+}
+
+.blog-preview-time {
+  display: block;
+  margin-bottom: 5px;
+}
+
+.blog-preview-title {
+  margin: 0;
+  margin-bottom: 15px;
+}
+
+.blog-preview-descr {
+  margin: 0;
+}
+
+/* clients */
+.clients-item {
+  flex-direction: column;
+  padding: 50px 36px;
+  padding-bottom: 30px;
+  width: 370px;
+  outline: 1px solid red;
+}
+
+.clients-item:not(:nth-child(3n)) {
+  margin-right: 30px;
+}
+
+.clients-item-descr {
+  margin: 0;
+  margin-bottom: 30px;
+}
+
+.clients-user {
+  align-items: center;
+  margin-top: auto;
+}
+
+.clients-avatar {
+  flex-shrink: 0;
+  margin-right: 17px;
+  width: 67px;
+}
+
+.clients-name {
+  margin-bottom: 5px;
+}
