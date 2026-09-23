@@ -51,6 +51,7 @@ Lionic/
 ├── img/
 ├── index.html
 └── README.md
+```
 
 ## Run Locally
 
