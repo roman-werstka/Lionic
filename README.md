@@ -59,9 +59,9 @@ Clone the repository:
 ```bash
 git clone https://github.com/roman-werstka/Lionic.git
 ```
-```md
+
 Then open `index.html` in your browser.
-```
+
 ## What I Practiced
 
 While working on this project, I practiced:
@@ -72,7 +72,7 @@ While working on this project, I practiced:
 - Organizing reusable CSS classes
 - Structuring a multi-section landing page
 - Working with images and SVG icons
-- 
+
 ## Author
 
 Roman Kovyryalov
