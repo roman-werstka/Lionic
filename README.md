@@ -56,9 +56,9 @@ Lionic/
 ## Run Locally
 
 Clone the repository:
-
+```text
 git clone https://github.com/roman-werstka/Lionic.git
-
+```
 Then open index.html in your browser.
 
 ## What I Practiced
@@ -75,4 +75,4 @@ While working on this project, I practiced:
 
 Roman Kovyryalov
 
-GitHub: @roman-werstka
+GitHub: [@roman-werstka](https://github.com/roman-werstka)
